@@ -2,7 +2,7 @@ Basic linux scripts appropriate for moving to all linux machines.
 
 b - sets the bash shell to use vi mode to fix backspaces and other keystrokes
 
-bashrc_add.sh - creates a scripts foler and adds the ~/scripts folder to the user path
+bashrc_add.sh - adds ~/scripts folder to the user path
 
 date_loop.sh - loop the date. helpful example script
 
